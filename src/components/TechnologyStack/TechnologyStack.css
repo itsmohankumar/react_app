@@ -1,0 +1,67 @@
+.img-weblit {
+    min-width: 915px !important;
+}
+.cus-card {
+    height: 400px;
+    width: 320px;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 0 20px !important;
+
+}
+.bg-gray {
+    background-color: rgb(233, 233, 233);
+}
+.img-human {
+    height: 130px;
+    width: 120px;
+    object-fit: contain;
+}
+.font-text {
+    font-size: 100%;
+    font-style: italic;
+    line-height: 1.5;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+    color: #7a7a7a;
+    text-align: start !important;
+}
+.star-rating {
+    font: inherit;
+    vertical-align: baseline;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    color: #f2b01e;
+    text-align: start;
+    gap: 3px;
+}
+.company-basic-item-wrapper {
+    margin-left: 10rem !important;
+    margin-top: 8rem !important;
+}
+.company-item {
+    display: flex;
+    flex-direction: row;
+}
+.ml-3 {
+    margin-left: 10px;
+}
+.container-form {
+    width: 600px;
+    background-color: white;
+    margin-top: -1.8rem !important;
+    box-shadow: 0 4px 20px 1px rgba(0,0,0,0.06), 0 1px 4px rgba(0,0,0,0.08);
+    border-radius: 4px;
+    border: none;
+}
+.form-wapper {
+    margin-left: 2rem;
+    margin-top: 1rem;
+    width: 500px;
+}
+bg-white {
+    background-color: white !important;
+}

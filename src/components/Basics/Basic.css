@@ -1,0 +1,36 @@
+.cus-img {
+    height: 580px !important;
+    object-fit: cover;
+    min-width: 840px !important;
+       
+}
+.cus-text {
+    /* background-color: green; */
+    color: white;
+    padding: 20px;
+    height: 580px !important;
+    width: 71opx !important;
+}
+.read-more {
+    background: transparent;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    border: 2px solid white;
+    font-size: small
+}
+.btn-cus-redien {
+    background: transparent;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    border: 2px solid white;
+}
+.bg-gradien {
+    background-image: linear-gradient(310deg, #0028F4 0%, #f2295b 100%) !important;
+    background: transparent;
+    height: 200px;
+}
+bg-white {
+    background-color: white !important;
+}
